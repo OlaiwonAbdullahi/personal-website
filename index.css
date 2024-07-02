@@ -20,6 +20,7 @@ img{
     gap: 2rem;
     align-items: center;
     justify-content: center;
+    margin:auto;
 }
 .a-link{
     color: cyan;
