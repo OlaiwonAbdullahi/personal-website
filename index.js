@@ -9,7 +9,7 @@ const INTERVAL = 1000
 let timerId;
 
 const updateInfo = () => {
-	const currentDate = new Date()
+	//const currentDate = new Date()
 	const currentTime = currentDate.toUTCString();
 	const currentDay = currentDate.getDay();
 	document.querySelector(SELECTORS.CURRENT_TIME).textContent = currentTime;
