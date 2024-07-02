@@ -17,7 +17,7 @@ img{
 }
 .links{
     display: flex;
-    gap: 22rem;
+    gap: 2rem;
     align-items: center;
     justify-content: center;
 }
