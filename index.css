@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 }
 .wrapper{
-    background-color: white;
+    background-color: black;
     
 }
 .slackDisplayName{
@@ -12,7 +12,7 @@ padding: 0;
     text-align: center;
 }
 img{
-  margin-left: 5.5rem;
+  
 }
 .links{
     display: flex;
@@ -21,9 +21,9 @@ img{
     justify-content: center;
 }
 .a-link{
-    color: blue;
+    color: antiquewhite;
     text-decoration: none;
 }
 .data-item{
-    color: blue;
+    color: antiquewhite;
 }
