@@ -1,0 +1,29 @@
+* {
+margin: 0;
+padding: 0;
+}
+.wrapper{
+    background-color: black;
+    
+}
+.slackDisplayName{
+    color: antiquewhite;
+    padding-top: 2rem;
+    text-align: center;
+}
+img{
+  margin-left: 5.5rem;
+}
+.links{
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    justify-content: center;
+}
+.a-link{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.data-item{
+    color: antiquewhite;
+}
